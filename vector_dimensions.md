@@ -3,7 +3,9 @@
 ## Delete the previous index
 - Go to http://localhost:7474/browser/
 - Run the following commands in the browser:
+  
   `SHOW INDEXES`
+
   `DROP INDEX vector`
 
 
