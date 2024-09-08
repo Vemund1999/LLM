@@ -9,7 +9,7 @@
 - Edit the variables.py file to whatever values you want
 
 
-## Docker containers
+## Setup project
 - Run the docker_setup.sh
 
 This will make two docker containers
