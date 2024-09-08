@@ -1,5 +1,10 @@
 # Setup 
 
+## prerequisite
+- You have docker installed
+- You have a openai API key
+- You have a langchain API key
+
 ## Variables
 - Edit the variables.py file to whatever values you want
 
