@@ -9,7 +9,6 @@ NEO4J_PORT=7474
 MONGODB_PORT=27017
 NEO4J_USERNAME="neo4j"
 NEO4J_PASSWORD="neo4j_password"
-VECTOR_DIMENSIONS=4096
 
 # Run MongoDB container
 echo "Starting MongoDB container..."
