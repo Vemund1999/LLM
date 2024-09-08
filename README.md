@@ -1,6 +1,6 @@
 # Setup 
 
-## prerequisite
+## Prerequisite
 - You have docker installed
 - You have a openai API key
 - You have a langchain API key
