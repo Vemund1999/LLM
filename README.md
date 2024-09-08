@@ -25,7 +25,7 @@ The dimensions value is specifically for gpt-3.5-turbo.
 
 If you change the model, you also have to change the dimensions.
 
-- Run: pip install -r requirements.txt
+- Run: `pip install -r requirements.txt`
 
 
 
