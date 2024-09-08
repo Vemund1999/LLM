@@ -12,7 +12,7 @@ This will make two docker containers
 - Another for a chat history database in mongodb
 
 - Execute the following command in the neo4j browser at localhost 7474:
-'''
+```
 CREATE VECTOR INDEX vector IF NOT EXISTS
 FOR (m:Chunk)
 ON m.embedding
@@ -20,7 +20,7 @@ OPTIONS {indexConfig: {
  `vector.dimensions`: 1536,
  `vector.similarity_function`: 'cosine'
 }}
-'''
+```
 The dimensions value is specifically for gpt-3.5-turbo.
 
 If you change the model, you also have to change the dimensions.
