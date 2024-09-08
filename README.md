@@ -8,9 +8,9 @@
 - Run the docker_setup.sh
 
 This will make two docker containers
-ne for a vector store database in neo4j
+- One for a vector store database in neo4j
 - Another for a chat history database in mongodb
-<br />
+- 
 <br />
 
 - Execute the following command in the neo4j browser at localhost 7474:
