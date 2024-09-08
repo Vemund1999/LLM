@@ -13,7 +13,7 @@ This will make two docker containers
 
 <br />
 
-- Execute the following command in the neo4j browser at localhost 7474:
+- Execute the following command in the neo4j browser at http://localhost:7474/browser/:
 ```
 CREATE VECTOR INDEX vector IF NOT EXISTS
 FOR (m:Chunk)
@@ -33,7 +33,7 @@ If you change the model, you also have to change the dimensions.
 
 ## Run
 - Run the app.py file
-- Go to localhost on port 5000
+- Go to http://localhost:5000
 
 
 
