@@ -51,6 +51,7 @@ If you change the model, you also have to change the dimensions.
 - A user can give domain-knowledge by providing pdf-files
 - The LLM can be given csv files, which it can read by saving the data to a sql-lite database
 
+# Images of the application GUI
 ![2024-09-08_13-05](https://github.com/user-attachments/assets/5c1a2889-c61b-469f-a86b-03f344a3df75)
 
 ![2024-09-08_13-06](https://github.com/user-attachments/assets/950d2598-e1d1-4e91-b011-fd9792a02dae)
