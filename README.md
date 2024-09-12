@@ -48,7 +48,7 @@ If you change the model, you also have to change the dimensions.
 - The LLM has memory, chat history is saved
 - Chat history can be freely limited. The LLM will summerize messages that are far enough behind in the log. This is done by using a second LLM (llama2)
 - A user can create different sessions with the LLM
-- A user can give domain-knowledge by providing pdf-files
+- A user can be given domain-knowledge by providing pdf-files
 - The LLM can be given csv files, which it can read by saving the data to a sql-lite database
 
 # Images of the application GUI
